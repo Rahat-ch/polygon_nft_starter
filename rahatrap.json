@@ -1,0 +1,16 @@
+{
+    "name": "Rahat Joins Polygon",
+    "description": "Rahat Creates the Greatest Job Announcement ever. Beat produced by Solxce Beats",
+    "image": "https://bafybeiecehhvpt5x4jdrjprogwwnts2xdrlvmi3vvfntks5n6vw54uw4ty.ipfs.dweb.link/me.png",
+    "animation_url":"https://bafybeieyxw6t3shypmp2curnzqu7t7shpe4fp2cm2lv5j4jmu3otmf56yq.ipfs.dweb.link/announcment.mp4",
+    "attributes": [
+      {
+        "trait_type": "Rapper",
+        "value": "Rahat"
+      },
+      {
+        "trait_type": "Producer",
+        "value": "Solxce Beats"
+      }
+    ]
+  }
